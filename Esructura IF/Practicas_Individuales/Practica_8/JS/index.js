@@ -1,4 +1,4 @@
-let btnCosto = document.getElementById("btnEvaluar");
+let btnEvaluar = document.getElementById("btnEvaluar");
 btnEvaluar.addEventListener("click", evaluarCalificacion);
 
 function evaluarCalificacion(){
